@@ -1,0 +1,6 @@
+{
+  "name": "Student Scoreboard",
+  "description": "A React application to manage and display student scores with real-time updates and pass/fail status.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
